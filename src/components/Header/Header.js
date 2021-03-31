@@ -6,10 +6,10 @@ import pult from '../../images/logo_pult.svg';
 function Header() {
 	return (
 		<header className="header">
-			<a href="https://www.pult.ru/" class="header_link" target="blank">
+			<a href="https://www.pult.ru/" class="header__link" target="blank">
 				<img className="header__gallo-icon" src={gallo} alt="GALLO" />
 			</a>
-			<a href="https://www.pult.ru/" class="header_link" target="blank">
+			<a href="https://www.pult.ru/" class="header__link" target="blank">
 				<img className="header__pult-icon" src={pult} alt="pult" />
 			</a>
 		</header>
