@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header/Header';
 import Carousel from './components/Carousel/Carousel';
+import Footer from './components/Footer/Footer';
 
 function App() {
 	return (
@@ -8,6 +9,7 @@ function App() {
 			<div className="page__container">
 				<Header />
 				<Carousel />
+				<Footer />
 			</div>
 		</div>
 	);
