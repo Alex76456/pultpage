@@ -1,0 +1,12 @@
+.button {
+	display: none;
+}
+
+.slide {
+	width: 100%;
+}
+
+.slide_image {
+	object-fit: scale-down;
+	width: 100%;
+}

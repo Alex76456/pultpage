@@ -1,0 +1,11 @@
+header {
+	padding: 20px 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/*border-bottom: 1px solid #E2E5E6;*/
+}
+
+.header_link {
+	cursor: pointer;
+}
