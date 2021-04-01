@@ -155,7 +155,7 @@ export default class extends React.Component {
 
 					<div className="slide">
 						<img className="slide__image" src={strada} alt="колонки" />
-						<p className="slider__text-discount">
+						<p className="slider__text-discount slider__text-discount_pos_right">
 							скидки до<span className="slider__text-discount-b">30%</span>
 						</p>
 						<div className="slide__container">

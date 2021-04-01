@@ -16,7 +16,7 @@ function Footer() {
 						</div>
 
 						<div className="footer__call">
-							<a className="footer__tel" href="tel:+78005555152" target="_blank">
+							<a className="footer__tel" href="tel:+78005555152" target="blank">
 								8(800)555-51-52
 							</a>
 							<p className="footer__call-text">Звонок по России бесплатный</p>
@@ -26,32 +26,50 @@ function Footer() {
 						<li className="footer__column">
 							<ul className="footer__list">
 								<li className="footer__list-item">
-									<a className="footer__link link" href="#">
+									<a
+										className="footer__link link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Акустика
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Hi-Fi
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Винил
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Наушники
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Телевизоры
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Проекторы
 									</a>
 								</li>
@@ -60,27 +78,42 @@ function Footer() {
 						<li className="footer__column">
 							<ul className="footer__list">
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Распродажа
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Outlet
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Акции
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Бонусы и скидки
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Рассрочка
 									</a>
 								</li>
@@ -89,22 +122,34 @@ function Footer() {
 						<li className="footer__column">
 							<ul className="footer__list">
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										О компании 🡥
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Контакты 🡥
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Салоны 🡥
 									</a>
 								</li>
 								<li className="footer__list-item">
-									<a className="footer__link" href="#">
+									<a
+										className="footer__link"
+										href="https://gallo.pult.ru/micro_droplet/240880#"
+									>
 										Новости 🡥
 									</a>
 								</li>

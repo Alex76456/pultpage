@@ -7,7 +7,8 @@ function Product() {
 		link: microData['creme'].link,
 		title: microData['creme'].title,
 		fPrice: microData['creme'].fPrice,
-		sPrice: microData['creme'].sPrice
+		sPrice: microData['creme'].sPrice,
+		payLink: microData['creme'].payLink
 	});
 
 	function onColor(e) {
@@ -18,7 +19,8 @@ function Product() {
 					link: microData[key].link,
 					title: microData[key].title,
 					fPrice: microData[key].fPrice,
-					sPrice: microData[key].sPrice
+					sPrice: microData[key].sPrice,
+					payLink: microData[key].payLink
 				})
 		);
 	}
@@ -43,11 +45,7 @@ function Product() {
 						2-метровым акустическим кабелем и с комплектом потолочной розетки.
 					</p>
 					<div className="product__get">
-						<a
-							className="product__btn link"
-							href="https://pult.ru/product/podvesnaya-akustika-gallo-acoustics-micro-single-droplet-bronze-black-cable-gm1brdrop"
-							target="_blank"
-						>
+						<a className="product__btn link" href={info.payLink} target="blank">
 							купить
 						</a>
 						<div className="product__prices">

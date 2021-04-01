@@ -1,20 +1,19 @@
 @font-face {
-  src: url('../vendor/font-inter/Inter-Regular.woff2') format('woff2'), url('../vendor/font-inter/Inter-Regular.woff') format('woff'), url('../vendor/font-inter/Inter-Regular.ttf') format('truetype');
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 400;
+	font-family: 'Gilroy-Regular';
+	src: url('./fonts/gilroy-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('./fonts/gilroy-regular.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/gilroy-regular.woff2') format('woff2'),
+		url('./fonts/gilroy-regular.woff') format('woff'),
+		url('./fonts/gilroy-regular.ttf') format('truetype'),
+		url('./fonts/gilroy-regular.svg#gilroy-regular') format('svg'); /* Chrome < 4, Legacy iOS */
 }
 
 @font-face {
-  src: url('../vendor/font-inter/Inter-Medium.woff2') format('woff2'), url('../vendor/font-inter/Inter-Medium.woff') format('woff'), url('../vendor/font-inter/Inter-Medium.ttf') format('truetype');
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 500;
-}
-
-@font-face {
-  src: url('../vendor/font-inter/Inter-Black.woff2') format('woff2'), url('../vendor/font-inter/Inter-Black.woff') format('woff'), url('../vendor/font-inter/Inter-Black.ttf') format('truetype');
-  font-family: Inter;
-  font-style: normal;
-  font-weight: 900;
+	font-family: 'Gilroy-SemiBold';
+	src: url('./fonts/gilroy-semibold.eot'); /* IE 9 Compatibility Mode */
+	src: url('./fonts/gilroy-semibold.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/gilroy-semibold.woff2') format('woff2'),
+		url('./fonts/gilroy-semibold.woff') format('woff'),
+		url('./fonts/gilroy-semibold.ttf') format('truetype'),
+		url('./fonts/gilroy-semibold.svg#gilroy-semibold') format('svg'); /* Chrome < 4, Legacy iOS */
 }

@@ -56,6 +56,9 @@
 }
 
 .slide__title {
+	font-family: gilroy-semibold, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+		Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Noto Color Emoji";
 	margin: 0;
 	font-size: 20px;
 	line-height: 100%;
@@ -84,8 +87,14 @@
 	line-height: 100%;
 	letter-spacing: 2px;
 }
+.slider__text-discount_pos_right {
+	right: 0;
+}
 
 .slider__text-discount-b {
+	font-family: gilroy-semibold, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+		Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Noto Color Emoji";
 	font-size: 190px;
 	line-height: 100%;
 }
