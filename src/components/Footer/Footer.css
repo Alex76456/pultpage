@@ -47,6 +47,7 @@
 }
 
 .footer__columns {
+	margin: 0;
 	display: flex;
 	list-style: none;
 }
